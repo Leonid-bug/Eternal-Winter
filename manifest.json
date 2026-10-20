@@ -1,0 +1,15 @@
+{
+  "name": "Eternal Winter Core",
+  "version": "0.66.2",
+  "manifest_version": 1,
+  "description": "Core extension for the Eternal Winter tabletop RPG.",
+  "author": "Eternal Winter",
+  "icon": "/Eternal-Winter/icon.svg",
+  "action": {
+    "title": "Eternal Winter",
+    "icon": "/Eternal-Winter/icon.svg",
+    "popover": "/Eternal-Winter/",
+    "height": 520,
+    "width": 420
+  }
+}
